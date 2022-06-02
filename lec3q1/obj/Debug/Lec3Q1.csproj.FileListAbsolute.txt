@@ -1,0 +1,18 @@
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.exe.config
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.exe
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.pdb
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.csprojResolveAssemblyReference.cache
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.Form1.resources
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.Properties.Resources.resources
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.csproj.GenerateResource.Cache
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.exe
+C:\Users\oo\Desktop\New folder\tasks\Stack\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.pdb
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.exe.config
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.exe
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.pdb
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.exe
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\bin\Debug\Lec3Q1.pdb
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.csprojResolveAssemblyReference.cache
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.Form1.resources
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.Properties.Resources.resources
+E:\cs\level3\New folder\New folder (2)\C# tasks\Lec3Q1\Lec3Q1\obj\Debug\Lec3Q1.csproj.GenerateResource.Cache
